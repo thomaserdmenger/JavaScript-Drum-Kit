@@ -45,3 +45,9 @@ body {
   color: hsla(51, 100%, 50%, 0.8);
   font-size: 0.6rem;
 }
+
+.keydown {
+  border: 3px solid hsla(51, 100%, 50%, 0.8);
+  transform: scale(1.1);
+  transition: all 0.1s;
+}
